@@ -19,4 +19,4 @@ A lo largo de mi trayectoria, he liderado operaciones logrando resultados críti
 📫 **Conectemos:**
 * **LinkedIn:** [linkedin.com/in/gineth-castano](https://www.linkedin.com/in/gineth-castano)
 * **Email:** gacastano21@gmail.com
-* **GitHub:** (https://github.com/gacas21-dot).
+* **GitHub:** https://github.com/gacas21-dot.
