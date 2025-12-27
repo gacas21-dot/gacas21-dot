@@ -27,6 +27,11 @@ A lo largo de mi trayectoria, he liderado operaciones logrando resultados críti
 * **Habilidad Clave:** Prueba de hipótesis estadística (**t-student**) y análisis de distribución de datos masivos.
 * **Resultado:** Identificación de que el plan Surf genera ingresos más altos por excedentes, permitiendo una segmentación de marketing más agresiva en usuarios de alto consumo.
 
+#### 🎮 [Pronóstico de Tendencias: Mercado Global de Videojuegos](https://github.com/gacas21-dot/gaming-industry-trends-forecasting)
+* **El Problema:** Predecir el éxito comercial para el año 2017 basándose en datos históricos de ventas y reseñas.
+* **Habilidad Clave:** Análisis de series temporales, segmentación regional (NA, EU, JP) y correlación de variables.
+* **Resultado:** Determinación del ciclo de vida de consolas (10 años) y hallazgo de que la crítica profesional es el mejor predictor de ventas para PS4.
+
 ---
 📫 **Conectemos:**
 * **LinkedIn:** [linkedin.com/in/gineth-castano](https://www.linkedin.com/in/gineth-castano)
