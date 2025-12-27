@@ -22,6 +22,11 @@ A lo largo de mi trayectoria, he liderado operaciones logrando resultados críti
 * **Tech:** Python, Pandas, Matplotlib, Análisis Estadístico.
 * **Key Insight:** Los productos orgánicos presentan una tasa de recompra del 85%, sugiriendo una oportunidad de fidelización premium.
 
+#### 📊 [Análisis Estadístico de Ingresos - Telecomunicaciones](https://github.com/gacas21-dot/telecom-revenue-statistical-analysis)
+* **El Problema:** Determinar cuál plan telefónico (Surf vs. Ultimate) es más rentable para optimizar el presupuesto publicitario.
+* **Habilidad Clave:** Prueba de hipótesis estadística (**t-student**) y análisis de distribución de datos masivos.
+* **Resultado:** Identificación de que el plan Surf genera ingresos más altos por excedentes, permitiendo una segmentación de marketing más agresiva en usuarios de alto consumo.
+
 ---
 📫 **Conectemos:**
 * **LinkedIn:** [linkedin.com/in/gineth-castano](https://www.linkedin.com/in/gineth-castano)
