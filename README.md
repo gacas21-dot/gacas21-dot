@@ -15,6 +15,13 @@ A lo largo de mi trayectoria, he liderado operaciones logrando resultados críti
 * **Visualización:** Power BI, Excel Avanzado (Macros/VBA).
 * **Gestión:** SAP, Clever.
 
+* ### 🚀 Proyectos Destacados
+
+#### [Análisis de Estrategia Comercial - Instacart](https://github.com/gacas21-dot/Optimizacion_de_Inventarios_y_Analisis_de_Datos_Masivos)
+* **Impacto:** Identificación de patrones de compra en +4.5M de registros para optimización de cadena de suministro.
+* **Tech:** Python, Pandas, Matplotlib, Análisis Estadístico.
+* **Key Insight:** Los productos orgánicos presentan una tasa de recompra del 85%, sugiriendo una oportunidad de fidelización premium.
+
 ---
 📫 **Conectemos:**
 * **LinkedIn:** [linkedin.com/in/gineth-castano](https://www.linkedin.com/in/gineth-castano)
