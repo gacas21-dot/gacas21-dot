@@ -2,7 +2,7 @@
 
 ## Estrategia Logística & Ciencia de Datos: El Valor de la Precisión Operativa
 
-Soy **Ingeniera Industrial** con más de 7 años de experiencia liderando la optimización de cadenas de suministro.Mi enfoque profesional ha evolucionado hacia la **Ciencia de Datos** para cerrar la brecha entre la recopilación de información masiva y la toma de decisiones ejecutivas de alto impacto.
+Soy **Ingeniera Industrial** con más de 7 años de experiencia liderando la optimización de cadenas de suministro. Mi enfoque profesional ha evolucionado hacia la **Ciencia de Datos** para cerrar la brecha entre la recopilación de información masiva y la toma de decisiones ejecutivas de alto impacto.
 
 ### 📈 Impacto y Resultados Probados
 A lo largo de mi trayectoria, he liderado operaciones logrando resultados críticos:
